@@ -61,7 +61,7 @@
     $formErrorName = "Пожалуйста, введите Ваше имя";
     $formErrorEmail = "Пожалуйста, введите актуальный e-mail";
     $formErrorMessage = "Пожалуйста, введите сообщение";
-    $formErrorAntiSPAM = "Ваш anti-spam неверен";
+    $formErrorAntiSPAM = "Ваша контрольная сумма/последовательность не верна";
 
 
     $submitButtonText = "Отправить";
